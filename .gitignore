@@ -1,0 +1,24 @@
+# Kutubxonalar
+node_modules/
+
+# Maxfiy ma'lumotlar — GitHub ga HECH QACHON yuklanmasin!
+.env
+
+# SQLite bazasi (foydalanuvchi ma'lumotlari)
+*.db
+*.db-wal
+*.db-shm
+*.db-journal
+
+# Loglar
+logs/
+*.log
+npm-debug.log*
+
+# Tizim fayllari
+.DS_Store
+Thumbs.db
+
+# Muharrir sozlamalari
+.vscode/
+.idea/
